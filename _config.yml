@@ -2,7 +2,7 @@ title: Meister-Robotization
 lang: kr
 description: 빅데이터 활용 마이스터 로봇화 기반구축
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-doc-theme
 
 # debug:
 #   compress: false
