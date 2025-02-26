@@ -39,3 +39,6 @@ sort: 1
 - 단계별 구축 테스트베드/장비 기반 마이스터 로봇화 보급 및 지속 지원
 
 ![meister_roadmap](image/meister_roadmap.png)
+
+
+- [MICE brochure](Meister_MICE_brochure.pdf)
